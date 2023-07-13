@@ -1,6 +1,6 @@
 # nestjs-auth
 
-## Implementation of different passport strategies in Nest.js
+Implementation of different passport strategies in Nest.js
 
 ## 🚀 Strategies
 
