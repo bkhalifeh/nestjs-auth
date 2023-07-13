@@ -2,9 +2,7 @@
 
 ## Implementation of different passport strategies in Nest.js
 
----
-
-## Strategies
+## 🚀 Strategies
 
 - Local
 - Local Session Base
